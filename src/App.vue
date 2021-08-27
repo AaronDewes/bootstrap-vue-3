@@ -1,7 +1,16 @@
 <!-- eslint-disable vue/max-attributes-per-line vue/singleline-html-element-content-newline -->
 <template>
   <b-container class="mt-4" fluid="sm">
+    <h5 class="my-3">
+      Icons
+    </h5>
+    <div class="h2 mb-0">
+      <b-icon icon="arrow-up"></b-icon>
+      <b-icon icon="exclamation-triangle"></b-icon>
+    </div>
+
     <h5 class="my-3">Dropdown</h5>
+
 
     <h6 class="m-2">Sizes</h6>
     <div class="d-flex">
